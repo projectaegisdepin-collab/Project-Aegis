@@ -3,6 +3,14 @@ Space-Based Quantum-Resilient Cryptographic Identity Authentication Protocols.
 WHITE PAPER: PROJECT AEGIS
 Space-Based Post-Quantum Cryptographic (PQC) DePIN Identity Registry &
 Decentralized Edge Authentication Networks
+markdown# 🛰️ Project Aegis: Space-Based Quantum-Resilient Identity
+Welcome to the official repository for Project Aegis. We are architecting decentralized physical infrastructure networks (DePIN) optimized for LEO satellite payloads.
+
+### 🌐 Connecting from X / Twitter?
+* **Read the Paper:** Scroll down to review the core architecture.
+* **Get Involved:** We are an open-source initiative looking for technical co-founders, post-quantum cryptographers, and embedded software engineers.
+* **Contribute:** Open an Issue or submit a Pull Request to optimize our cryptographic routing layer.
+***
 1. ABSTRACT
 Modern satellite, aerospace, and remote industrial communications rely heavily on centralized
 Public Key Infrastructure (PKI) frameworks. These legacy frameworks are critically vulnerable
@@ -177,3 +185,4 @@ of Starshield by providing cryptographic assurance that no compromised edge asse
 inject malicious telemetry into the orbital array.
 • Bandwidth Optimization: Minimizes satellite-to-ground backhaul traffic by dropping the
 need for real-time certificate validation queries back to terrestrial ground stations.
+ Initial commit of Project Aegis White Paper
